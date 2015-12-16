@@ -1,3 +1,3 @@
-# Doc2Vec
-code for paper "Learning Distributed Representation of Documents by Predicting Context Information"
-will be published when the paper is accepted.
+# DV-ngram
+code for paper "Learning Document Embedding by \mbox{Predicting} N-grams for Sentiment Classification of Long Movie Reviews"
+will be published with this paper.
