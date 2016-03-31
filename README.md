@@ -1,7 +1,7 @@
 # Learning Document Embedding by Predicting N-grams for Sentiment Classification of Long Movie Reviews
 
 
-This code reproduces the results of the iclr 2016 workshop paper:
+This code reproduces the DV-gram model's results of our iclr 2016 workshop paper:
 
 [Bofang Li, Tao Liu, Xiaoyong Du, Deyuan Zhang and Zhe Zhao - **Learning Document Embedding by Predicting N-grams for Sentiment Classification of Long Movie Reviews**] (http://arxiv.org/abs/1512.08183) 
 
@@ -23,7 +23,7 @@ Note that for DV-trigram, dictionary size is large, you may need around 20G RAM 
 
 ##Acknowledgements
 
-We want to thank Grégoire Mesnil et al. for their implementation of **Paragraph Vector**. Both the code of Grégoire Mesnil et al. and their [iclr 2015 workshop paper](http://arxiv.org/abs/1412.5335) have influenced us a lot.
+We want to thank Grégoire Mesnil et al. for their implementation of **Paragraph Vector**. Both their code and [iclr 2015 workshop paper](http://arxiv.org/abs/1412.5335) have influenced us a lot.
 
 
 
