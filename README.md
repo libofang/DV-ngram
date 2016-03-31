@@ -14,7 +14,7 @@ The original version of this code was written in C, built upon the [code](https:
 
 This code has been tested on Windows, it should work on Linux, OSX or any other operation system just fine, thanks to Java.
 
-Preprocessed data for IMDB dataset can be downloaded here: [unigram](http://202.112.113.8/d/DV-ngram/alldata-id_p1gram.zip), [bigram](http://202.112.113.8/d/DV-ngram/alldata-id_p1gram.zip), [trigram](http://202.112.113.8/d/DV-ngram/alldata-id_p1gram.zip)
+Preprocessed data for IMDB dataset can be downloaded here: [unigram](http://202.112.113.8/d/DV-ngram/alldata-id_p1gram.zip), [bigram](http://202.112.113.8/d/DV-ngram/alldata-id_p2gram.zip), [trigram](http://202.112.113.8/d/DV-ngram/alldata-id_p3gram.zip)
 
 All parameters your may need to change are in src/NN/DV.java. Your can just run it with default setting to get around 92.14% accuracy on IMDB dataset.
 
