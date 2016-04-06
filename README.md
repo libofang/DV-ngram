@@ -1,4 +1,4 @@
-# Learning Document Embedding by Predicting N-grams for Sentiment Classification of Long Movie Reviews
+# Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews
 
 
 This code implements the DV-ngram model proposed in iclr 2016 workshop paper:
