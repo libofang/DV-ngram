@@ -23,7 +23,7 @@ Note that for DV-trigram, dictionary size is large, you may need around 20G RAM 
 
 ##Acknowledgements
 
-We want to thank Grégoire Mesnil et al. for their implementation of Paragraph Vector. Both their code and [iclr 2015 workshop paper](http://arxiv.org/abs/1412.5335) have influenced us a lot.
+We thank Grégoire Mesnil et al. for their implementation of Paragraph Vector. Both their code and [iclr 2015 workshop paper](http://arxiv.org/abs/1412.5335) have influenced us a lot.
 
 
 
